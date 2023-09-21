@@ -1,5 +1,5 @@
 import torch
-print('--------------测试torch 导入是否成功')
+print('--------------测试 torch 导入是否成功')
 x = torch.rand(2,2)
 print(x)
 
@@ -7,8 +7,12 @@ print('--------------创建一个2x3的未初始化的Tensor')
 x = torch.empty(2, 3)
 print(x)
 
-print('--------------创建一个2x3的随机初始化的Tensor')
+print('--------------torch.rand(2, 3): 创建一个2x3的随机初始化的Tensor，均匀分布；返回一个张量，包含了从区间[0, 1)的均匀分布中抽取的一组随机数')
 x = torch.rand(2, 3)
+print(x)
+
+print('--------------torch.randn(2, 3): 创建一个2x3的随机初始化的Tensor，标准正态分布；返回一个张量，包含了从标准正态分布（均值为0，方差为1，即高斯白噪声）中抽取的一组随机数')
+x = torch.randn(5, 3)
 print(x)
 
 print('--------------创建一个2x3的long型全0的Tensor')

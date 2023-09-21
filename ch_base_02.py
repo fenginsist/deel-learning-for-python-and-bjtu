@@ -24,7 +24,7 @@ print(x[0,:]) # 源tensor也被改了
 
 print('-----------------用view()来改变Tensor的形状')
 y = x.view(6)
-z = x.view(-1,2) # -1所指的维度可以根据其他维度的值推出来，后面是2列，因为是六个数据，所以肯定是三行二列     ??????
+z = x.view(-1,2) # 限定后面是2列，所有就是多行2列。-1所指的维度可以根据其他维度的值推出来，后面是2列，因为是六个数据，所以肯定是三行二列     ??????
 print(x)
 print(y)
 print(z)
@@ -57,13 +57,13 @@ print(x)
 print(x.trace())
 
 
-print('-----------------对角线元素：diag()函数')
+print('-----------------diag()函数：对角线元素')
 print(x)
 print(x.diag())
 
 print('-----------------矩阵的上三角/下三角，可指 定偏移量')
 
-print('-----------------矩阵乘法，batch的矩阵乘法（参数有点多，需要查看文档）：addmm/addbmm/addmv/addr/baddbmm..')
+print('-----------------torch.mm(x, y)：矩阵乘法，batch的矩阵乘法（参数有点多，需要查看文档）：addmm/addbmm/addmv/addr/baddbmm..')
 x = torch.tensor([[1,2], [2,2]])
 y = torch.tensor([[2,3], [3,4]])
 print(x)
@@ -71,6 +71,11 @@ print(y)
 print(torch.mm(x, y))
 print(torch.mm(torch.mm(x, y), y))
 print(torch.addmm(x, y, y))
+
+print('-----------------torch.matmul(x, y)：矩阵乘法，')
+# 1、Pytorch矩阵乘法之torch.mul() 、 torch.mm() 及torch.matmul()的区别：https://blog.csdn.net/irober/article/details/113686080
+# 2、torch.matmul和torch.mm和*区别：https://blog.csdn.net/Lison_Zhu/article/details/110181622
+x = torch.matmul()
 
 print('-----------------转置')
 x = torch.rand(3,3)

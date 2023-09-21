@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e515eb27-1fd4-462b-874a-444e72c40704" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject_DL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_04_FNN_hand_momentum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_05_FNN_torch_momentum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_06_FNN_hand_RMSprop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_07_FNN_torch_RMSprop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_08_FNN_hand_Adam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_09_FNN_torch_Adam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_10_FNN_hand_L2Fanshu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_10_FNN_torch_L2Fanshu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/FNN-torch-four-activefun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/FNN-torch-hiddends-effe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_01_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_02_FNN_line_hand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_03_FNN_two_hand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_04_FNN_ten_hand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_05_FNN_line_torch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_06_FNN_two_torch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_07_FNN_ten_torch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_08_FNN_ten_torch_four_active.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_09_FNN_ten_torch_test_hidden_effe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_10_FNN_ten_hand_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_10_FNN_ten_torch_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_11_FNN_ten_hand_RMSprop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_12_FNN_ten_hand_momentum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_13_FNN_ten_hand_adam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_14_FNN_ten_torch_RMSprop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_15_FNN_ten_torch_momentum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_16_FNN_ten_torch_adam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_17_FNN_ten_hand_L2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_18_FNN_ten_torch_L2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_19_FNN_ten_hand_dropout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_20_FNN_ten_torch_dropout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_21_FNN_early_stop_bug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/torchnn实现FNN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/手动实现FNN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_base_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_base_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_base_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_base_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_base_05_feng.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_base_05_feng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_0/ch_expriment_0_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_0/ch_expriment_0_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_0/ch_expriment_0_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_0/ch_expriment_0_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/ch_expriment_1_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/ch_expriment_1_01_line_hand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/ch_expriment_1_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/ch_expriment_1_02_line_torch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/data_set_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/data_set_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/data_set_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/data_set_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/homework_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/homework_01_baseOperation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/homework_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/homework_02_two_hand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/homework_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/homework_03_two_torch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/homework_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/homework_04_ten_hand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_1/homework_1/homework_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_1_ML/homework/homework_05_ten_torch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_2/ch_expriment_2_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_2/ch_expriment_2_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_02_FNN_hand.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_expriment_2/ch_expriment_2_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_expriment_2_FNN/ch_expriment_2_03_FNN_torch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UhaF3tmqBnonUvqbwkyTyfYNQj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alsc/PycharmProjects/pythonProject_DL/ch_expriment_2_FNN/homework&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.homework_21_FNN_early_stop_bug">
+    <configuration name="homework_10_FNN_ten_torch_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_10_FNN_ten_torch_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_18_FNN_ten_torch_L2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_18_FNN_ten_torch_L2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_19_FNN_ten_hand_dropout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_19_FNN_ten_hand_dropout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_20_FNN_ten_torch_dropout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_20_FNN_ten_torch_dropout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework_21_FNN_early_stop_bug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_DL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_21_FNN_early_stop_bug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homework_21_FNN_early_stop_bug" />
+        <item itemvalue="Python.homework_20_FNN_ten_torch_dropout" />
+        <item itemvalue="Python.homework_19_FNN_ten_hand_dropout" />
+        <item itemvalue="Python.homework_18_FNN_ten_torch_L2" />
+        <item itemvalue="Python.homework_10_FNN_ten_torch_utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e515eb27-1fd4-462b-874a-444e72c40704" name="Changes" comment="" />
+      <created>1693394158875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693394158875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_07_FNN_ten_torch.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ch_expriment_2_FNN/homework/homework_07_FNN_ten_torch.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
